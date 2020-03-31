@@ -137,7 +137,7 @@
                     <div class="col-md-12">
                         <div class="section-title-wrapper">
                             <div class="section-title">
-                                <h3>Welcome to St Joseph</h3>
+                                <h3>Welcome to St.Joseph The Workers</h3>
                                 <p>Love, Unity, and Solidarity</p>
                             </div>
                         </div> 
@@ -146,11 +146,11 @@
                 <div class="row" style="margin-top: 10px;">
                 <div class="col-md-12">
                 <p class="justify">
-                Welcome to St. Joseph the Worker Pre and Primary Schools.
+                <span style="font-weight:bold;">WELCOME TO ST.JOSEPH THE WORKERS</span> Pre and Primary Schools.
                 These schools were envisioned in 2009 and founded by the St. Joseph the Worker Parish in 2014.
                 They are geographically located in Katoro Township with day-schooling facilities only for girls and boys.
                 The Schools are mixed-school or co-schools offering the Tanzanian 3-7 curriculum (in pre and primary school).
-                They schools offer day-schooling facilities only.
+                The schools offer day-schooling facilities only.
                 Our education and management policies are guided on ancient Catholic education traditions and the Catholic Diocese of Geita education policies and ethics.
                 Our Schools aspire to form a well balanced person integrating the physical, intellectual, spiritual, humane, emotional, moral, and academic aspects of the students as well as cultivating and appreciating creative arts and human values
                     </p>
@@ -283,13 +283,13 @@
                 <div class="row">
                     <div class="col-lg-4">
                         <div class="teacher-image">
-                            <img src="<?=base_url('/assets/img/teacher/t1.jpg'); ?>" alt="">
+                            <img src="<?=base_url('/assets/img/teacher/t1_new.jpg'); ?>" alt="">
                         </div>
                         <div class="text-center">
-                            <h6>Bernard Makutano</h6>
+                            <h6>FR.Bernard Makutano</h6>
                             <span class="language">School Manager</span>
                             
-                            <p>He teach divinity</p>
+                            <!-- <p>He teach divinity</p> -->
                         </div>
                     </div>
                     <div class="col-lg-8">
@@ -310,7 +310,7 @@
                                     <h2>Sweetbert Hendry</h2>
                                     <span class="language">Deputy Academic Master</span>
                                     
-                                    <p>She teach science and mathematics</p>
+                                    <p>He teach science and mathematics</p>
                                 </div>
                                 <!-- teacher ./end -->
 
@@ -346,7 +346,7 @@
                                     <h2>Mokami Chacha</h2>
                                     <span class="language">Environment teacher</span>
                                     
-                                    <p>He social studies civic/moral education and language</p>
+                                    <p>She social studies civic/moral education and language</p>
                                 </div>
                                 <!-- teacher ./end -->
 
@@ -400,7 +400,7 @@
                                     <h2>Samweli Mapande</h2>
                                     <!-- <span class="language">Pre-primary head-teacher</span> -->
                                     
-                                    <p>She teach healthcare, reading and writing skills</p>
+                                    <p>He teach healthcare, reading and writing skills</p>
                                 </div>
                                 <!-- teacher ./end -->
 

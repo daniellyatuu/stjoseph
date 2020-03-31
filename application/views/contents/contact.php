@@ -42,7 +42,7 @@
                                     </div>
                                     <div class="contact-text">
                                         <h4>Address</h4>
-                                        <span>Katoro, Geita Tanzania</span>
+                                        <span>P.O.Box 158 GEITA, TANZANIA</span>
                                     </div>
                                 </div>
                                 <div class="contact-address-info">

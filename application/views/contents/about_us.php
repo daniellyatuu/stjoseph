@@ -108,15 +108,15 @@
                     <div class="single-teachers-column text-center">
                         <div class="teachers-image-column">
                             <a href="teacher-info.html">
-                                <img src="<?=base_url('/assets/img/teacher/t1.jpg')?>" alt="">
+                                <img src="<?=base_url('/assets/img/teacher/t1_new.jpg')?>" alt="">
                             </a>
                         </div>
                         <div class="teacher-column-carousel-text">
-                            <h4>Bernard Makutano</h4>
+                            <h4>FR.Bernard Makutano</h4>
                             <span>School Manager</span>
-                            <p>
+                            <!-- <p>
                             He teach divinity
-                            </p>
+                            </p> -->
                         </div>
                     </div>
 
@@ -145,7 +145,7 @@
                             <h4>Sweetbert Hendry</h4>
                             <span>Deputy Academic Master</span>
                             <p>
-                            She teach science and mathematics
+                            He teach science and mathematics
                             </p>
                         </div>
                     </div>
@@ -206,7 +206,7 @@
                             <h4>Mokami Chacha</h4>
                             <span>Environment teacher</span>
                             <p>
-                            He social studies civic/moral education and language
+                            She social studies civic/moral education and language
                             </p>
                         </div>
                     </div>
@@ -296,7 +296,7 @@
                             <h4>Samweli Mapande</h4>
                             <!-- <span>Pre-primary head-teacher</span> -->
                             <p>
-                            She teach healthcare, reading and writing skills
+                            He teach healthcare, reading and writing skills
                             </p>
                         </div>
                     </div>
