@@ -419,6 +419,14 @@
                                     
                                 </div>
                                 <!-- teacher ./end -->
+                                <!-- teacher .start -->
+                                <div class="sin-testiText">
+                                    <h2>Pillar Mushi</h2>
+                                    <span class="language">Pre-primary head teacher</span>
+                                    <p>She teach numeracy,reading,phonics and arts</p>
+                                    
+                                </div>
+                                <!-- teacher ./end -->
 
                             </div> 
                             <div class="testimonial-image-slider text-center">
@@ -490,6 +498,11 @@
                                 <div class="sin-testiImage">
                                     <div class="teacher-image-carousel">
                                         <img src="<?=base_url('/assets/img/teacher/t15.jpg'); ?>" alt="teacher 4" />
+                                    </div>
+                                </div>
+                                <div class="sin-testiImage">
+                                    <div class="teacher-image-carousel">
+                                        <img src="<?=base_url('/assets/img/teacher/t16.jpg'); ?>" alt="teacher 4" />
                                     </div>
                                 </div>
                             </div>  

@@ -328,6 +328,19 @@
                         </div>
                     </div>
 
+                    <div class="single-teachers-column text-center">
+                        <div class="teachers-image-column">
+                            <a href="teacher-info.html">
+                                <img src="<?=base_url('/assets/img/teacher/te16.jpg')?>" alt="">
+                            </a>
+                        </div>
+                        <div class="teacher-column-carousel-text">
+                            <h4>Pillar Mushi</h4>
+                            <span>Pre-primary head teacher</span>
+                            <p>She teach numeracy,reading,phonics and arts</p>
+                        </div>
+                    </div>
+
                 </div>
             </div>
         </div>
